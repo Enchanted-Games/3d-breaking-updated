@@ -1,0 +1,29 @@
+{
+  "pack": {
+    "min_format": 97,
+    "max_format": 97,
+    "description": [
+      "",
+      {
+        "text": "3D Breaking Animation!",
+        "color": "#fae7c3",
+		"shadow_color": -9879250
+      },
+      {
+        "text": "\nv1.0.0"
+      },
+      {
+        "text": " | by "
+      },
+      {
+        "player": {
+          "name": "Enchanted_Games"
+        },
+        "color": "white"
+      },
+      {
+        "text": " Enchanted_Games "
+      }
+    ]
+  }
+}
